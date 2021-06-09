@@ -1,4 +1,6 @@
-var bg;
+var canvas,bg;
+var together;
+
 var tom, tomImg1,tomImg2;
 var jerry, jerryImg1,jerryImg2;
 
